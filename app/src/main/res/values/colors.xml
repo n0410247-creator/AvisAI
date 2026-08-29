@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="avis_bg">#000000</color>
+    <color name="avis_panel">#0A0F1C</color>
+    <color name="avis_border">#14304D</color>
+    <color name="avis_blue">#2E9BFF</color>
+    <color name="avis_cyan">#4FD6FF</color>
+    <color name="avis_text_primary">#E8F1FB</color>
+    <color name="avis_text_secondary">#8FA3B8</color>
+</resources>
